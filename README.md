@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Lizbatec. Software Developer Multiplataform
+- 👋 Hi, I’m @Lizbatec. Multiplataform Software Developer
 - 👀 I’m interested in PHP, Phyton, .NET, BD and Servers
 - 🌱 I’m currently learning .NET
 
